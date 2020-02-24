@@ -3,7 +3,7 @@ https://www.udacity.com/course/data-streaming-nanodegree--nd029
 
 
 -----------------------------------------------
-PROJECT 1] Optimize Chicago Public Transit
+## PROJECT 1] Optimize Chicago Public Transit
 -----------------------------------------------
 
 In this project, students will stream public transit status, using Kafka and the Kafka ecosystem, to build a stream processing application
@@ -13,7 +13,7 @@ Finally, students will utilize the Faust Python Stream Processing library to tra
 
 
 -----------------------------------------------
-PROJECT 2] Analyze San Francisco Crime Rate
+## PROJECT 2] Analyze San Francisco Crime Rate
 -----------------------------------------------
 
 In this project, students will analyze a real-world dataset of the SF Crime Rate, extracted from Kaggle, 
