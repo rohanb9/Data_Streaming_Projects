@@ -25,6 +25,9 @@ You may choose to create your project in the workspace we provide here, or if yo
 
 ![alt text](https://github.com/rohanb9/Data_Streaming_Projects/blob/master/SF_Crime_Statistics/snapshots/queryplan.jpg)
 
+#### Spark UI:
+![alt text](https://github.com/rohanb9/Data_Streaming_Projects/blob/master/SF_Crime_Statistics/snapshots/spark_Ui_2.jpg)
+
 ### QnA
 
 Q1] How did changing values on the SparkSession property parameters affect the throughput and latency of the data?
