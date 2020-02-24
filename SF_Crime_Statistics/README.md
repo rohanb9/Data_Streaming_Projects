@@ -10,7 +10,22 @@ You may choose to create your project in the workspace we provide here, or if yo
 * Kafka build with Scala 2.11.x
 * Python 3.6.x or 3.7.x
 
-##### QnA
+### Output Screenshot:
+
+#### kafka-consumer-console output:
+
+![alt text](https://github.com/rohanb9/Data_Streaming_Projects/blob/master/SF_Crime_Statistics/snapshots/1_1_consume_data.jpg)
+![alt text](https://github.com/rohanb9/Data_Streaming_Projects/blob/master/SF_Crime_Statistics/snapshots/1_Consumer_data.jpg)
+
+#### Spark streaming (Aggregation by crime type) output:
+
+![alt text](https://github.com/rohanb9/Data_Streaming_Projects/blob/master/SF_Crime_Statistics/snapshots/Aggregation_by_cimetype.jpg)
+
+#### Progress Report output:
+
+![alt text](https://github.com/rohanb9/Data_Streaming_Projects/blob/master/SF_Crime_Statistics/snapshots/queryplan.jpg)
+
+#### QnA
 
 Q1] How did changing values on the SparkSession property parameters affect the throughput and latency of the data?
 
